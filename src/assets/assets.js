@@ -7,10 +7,10 @@ export const products = [
     description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
     price: 100,
     image: [ 
-       "../../public/assets/frontend_assets/p_img2_1.png",
-      "../../public/assets/frontend_assets/p_img2_2.png",
-      "../../public/assets/frontend_assets/p_img2_3.png",
-      "../../public/assets/frontend_assets/p_img2_4.png"
+       "/assets/frontend_assets/p_img2_1.png",
+      "/assets/frontend_assets/p_img2_2.png",
+      "/assets/frontend_assets/p_img2_3.png",
+      "/assets/frontend_assets/p_img2_4.png"
 
     ],
     category: "Men",
@@ -26,7 +26,7 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img10.png",
+      "/assets/frontend_assets/p_img10.png",
      
     ],
     category: "Men",
@@ -42,10 +42,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img11.png",
-      "../../public/assets/frontend_assets/p_img2_1.png",
-      "../../public/assets/frontend_assets/p_img2_2.png",
-      "../../public/assets/frontend_assets/p_img2_3.png",
+      "/assets/frontend_assets/p_img11.png",
+      "/assets/frontend_assets/p_img2_1.png",
+      "/assets/frontend_assets/p_img2_2.png",
+      "/assets/frontend_assets/p_img2_3.png",
     ],
     category: "Men",
     subCategory: "Topwear",
@@ -60,10 +60,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Kids",
     subCategory: "Topwear",
@@ -79,10 +79,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img4.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img4.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Men",
     subCategory: "Topwear",
@@ -98,10 +98,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img5.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img5.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -117,10 +117,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img6.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img6.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Kids",
     subCategory: "Topwear",
@@ -136,10 +136,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img7.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img7.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Men",
     subCategory: "Bottomwear",
@@ -154,10 +154,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img8.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img8.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Men",
     subCategory: "Topwear",
@@ -173,10 +173,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img9.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img9.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Kids",
     subCategory: "Topwear",
@@ -192,10 +192,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img12.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img12.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -211,10 +211,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img13.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img13.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -230,10 +230,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img14.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img14.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -250,10 +250,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img15.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img15.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -269,10 +269,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img16.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img16.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -288,10 +288,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img17.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img17.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -307,10 +307,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img18.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img18.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -326,10 +326,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img19.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img19.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -346,10 +346,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img20.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img20.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -365,10 +365,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img21.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img21.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -384,10 +384,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img22.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img22.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -403,10 +403,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img23.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img23.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -422,10 +422,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img24.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img24.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -441,10 +441,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img28.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img28.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -460,10 +460,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img29.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img29.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -479,10 +479,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img30.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img30.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -498,10 +498,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img31.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img31.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -517,10 +517,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img35.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img35.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
@@ -537,10 +537,10 @@ export const products = [
     price: 200,
     image: 
     [
-      "../../public/assets/frontend_assets/p_img36.png",
-      "../../public/assets/frontend_assets/p_img2.png",
-      "../../public/assets/frontend_assets/p_img3.png",
-      "../../public/assets/frontend_assets/p_img4.png"
+      "/assets/frontend_assets/p_img36.png",
+      "/assets/frontend_assets/p_img2.png",
+      "/assets/frontend_assets/p_img3.png",
+      "/assets/frontend_assets/p_img4.png"
     ],
     category: "Women",
     subCategory: "Topwear",
